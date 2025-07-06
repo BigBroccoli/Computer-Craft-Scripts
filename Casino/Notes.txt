@@ -1,0 +1,6 @@
+Walk in get Dave N Busters card after depositing diamonds
+1 Diamond = 100 pts
+When getting to machine put card in, machine reads card, reads pts
+displays points
+ask how many points you want to bet 
+play game (Blackjack, Slots, Roulette, etc.)
